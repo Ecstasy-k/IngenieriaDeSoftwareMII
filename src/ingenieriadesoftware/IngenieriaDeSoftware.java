@@ -10,13 +10,13 @@ package ingenieriadesoftware;
  * @author jorge
  */
 public class IngenieriaDeSoftware {
-
+    public static String nombre = "Jorge";
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
-        public string nombre = Jorge;
+        
         System.out.print("HOLA " + nombre);
         
     }
