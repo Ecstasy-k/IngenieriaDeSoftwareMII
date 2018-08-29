@@ -16,8 +16,9 @@ public class IngenieriaDeSoftware {
      */
     public static void main(String[] args) {
         // TODO code application logic here
+        public string nombre = Jorge;
+        System.out.print("HOLA " + nombre);
         
-        System.out.print("HOLA MUNDO");
     }
     
 }
