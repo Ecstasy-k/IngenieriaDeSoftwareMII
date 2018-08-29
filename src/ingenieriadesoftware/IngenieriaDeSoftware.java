@@ -11,13 +11,15 @@ package ingenieriadesoftware;
  */
 public class IngenieriaDeSoftware {
     public static String nombre = "Jorge";
+    public static String nombre2= "Juanito";
     /**
      * @param args the command line arguments
      */
     public static void main(String[] args) {
         // TODO code application logic here
         
-        System.out.print("HOLA " + nombre);
+        System.out.println("HOLA " + nombre);
+        System.out.print("Saludando a " + nombre2);
         
     }
     
