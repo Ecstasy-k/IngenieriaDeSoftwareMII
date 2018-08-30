@@ -11,7 +11,7 @@ package ingenieriadesoftware;
  */
 public class IngenieriaDeSoftware {
     public static String nombre = "Jorge Enrique Puente";
-    public static String nombre2= "Juanito";
+    public static String nombre2= "Juanito, funciono la conexión de slack";
     /**
      * @param args the command line arguments
      */
