@@ -10,7 +10,7 @@ package ingenieriadesoftware;
  * @author jorge
  */
 public class IngenieriaDeSoftware {
-    public static String nombre = "Jorge Enrique Puente a ver";
+    public static String nombre = "Jorge Enrique Puente a ver d";
     public static String nombre2= "Juanito, funciono la conexión de slack";
     /**
      * @param args the command line arguments
