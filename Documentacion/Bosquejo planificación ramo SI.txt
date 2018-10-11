@@ -1,0 +1,29 @@
+Planificación
+
+Actividades:
+		-Diseño de Software 21 días (entrega 18-10-2018) días de trabajo necesarios 7
+			A- Diseño de Diagrama de clases 2 días  1 hora diaria			HORAS 2
+			B- Diseño de Diagrama de Elementos de Software 2 días 1 hora diaria	HORAS 2
+			C- Elaboración de Video - Elemento de diseño programado en repositorio 1 días 1 horas diarias HORAS 1
+			D- Diseño de Diagrama de Componentes 1 días 2 horas diarias HORAS 2
+			E- Elaboración Manual de actualización de Diagramas 2 días 2 y 1 horas diarias HORAS 3
+			F- Elaborar matriz de correspondencia entre elementos de diseño y requerimientos 2 días 2 y 1 horas diarias HORAS 3  
+			G- Incorporar evidencia de actualización de monitor del plan. 1 días 1 hora HORAS 1
+			TOTAL HORAS 14
+
+		- Interfaz Humano-Computador(HCI) 42 días (entrega 29-11-2018) días de trabajo necesarios 14
+			- Elaboración de 5 Mock-up de pantallas más importantes del producto de software a construir 9 días 2 horas, 1 día 1 hora diarias HORAS 19
+			- Incorporar demostración de cumplimiento de criterios de diseño HCI al sistema de control de versiones 1 días 1 horas diarias HORAS 1 
+			- Elaboración de matriz de correspondencia entre pantallas de la HCI y elementos existentes en el diseño 2 días 2 hora diaria HORAS 4
+			- Elaboración de matriz de correspondencia entre pantallas de la HCI y requerimientos de software 2 días 2 hora diaria HORAS 16 4
+			TOTAL HORAS 28
+
+		- Implementación 21 días (entrega 20-12-2018) días de trabajo necesarios 7
+			- Implementar al menos 2 pantallas del producto de software 3 días 2 horas diarias HORAS 6
+			- Incorporar evidencia de actualización de monitor de avance 1 día 1 hora HORAS 1
+			- Desarrollar conjunto de 6 casos de prueba para las pantallas y añadir al controlador de versiones 2 días  2 horas diarias HORAS 4
+			- Elaborar manual de instalación de la versión actual 1 días 2 horas HORAS 2
+			- Incorporar demostración de como la versión del producto ejecutado cumple con los 6 casos de pruebas 1 día 1 hora HORAS 1
+			TOTAL HORAS 14
+
+Restan 56 horas de trabajo 28 días. (2 horas de trabajo diarias)
