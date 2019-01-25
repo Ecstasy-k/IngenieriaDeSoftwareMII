@@ -88,8 +88,7 @@ public class PronosticadorEtapa1 extends javax.swing.JFrame {
     }// </editor-fold>//GEN-END:initComponents
 
     private void bt_diagnosticoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bt_diagnosticoActionPerformed
-        // TODO add your handling code here:
-     //   txa_resultado.setText("Diagnóstico realizado con éxito\n salto de linea");
+        // Herramienta nmap debe ser instalada. Modificar la ruta de acceso en la configuración del pronosticador
      ejecutarCMD("C:\\Users\\jorge\\Documents\\nmap-7.70\\nmap.exe 190.121.13.170");   
      ejecutarCMD("ping 190.121.13.170");
         
@@ -141,10 +140,11 @@ public class PronosticadorEtapa1 extends javax.swing.JFrame {
 public  void ejecutarCMD(String cmd){
 Process p;
 try{
-   // ProcessBuilder pb = new ProcessBuilder("dads");
-  //  pb.directory(new File("C:\\Users\\jorge\\OneDrive\\Documentos\\nmap-7.70"));
-//    p = pb.start();
-  //  File fil = new File("C:\\Users\\jorge\\Documents\\nmap-7.70\\");
+   /** ProcessBuilder pb = new ProcessBuilder("");
+    pb.directory(new File("C:\\Users\\jorge\\OneDrive\\Documentos\\nmap-7.70"));
+    p = pb.start();
+    File fil = new File("C:\\Users\\jorge\\Documents\\nmap-7.70\\"); */
+   
     p = Runtime.getRuntime().exec(cmd);
     p.waitFor();
     BufferedReader reader = new BufferedReader(new InputStreamReader(p.getInputStream()));
