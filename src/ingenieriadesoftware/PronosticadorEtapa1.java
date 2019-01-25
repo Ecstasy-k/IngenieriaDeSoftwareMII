@@ -89,7 +89,9 @@ public class PronosticadorEtapa1 extends javax.swing.JFrame {
 
     private void bt_diagnosticoActionPerformed(java.awt.event.ActionEvent evt) {//GEN-FIRST:event_bt_diagnosticoActionPerformed
         // Herramienta nmap debe ser instalada. Modificar la ruta de acceso en la configuración del pronosticador
-     ejecutarCMD("C:\\Users\\jorge\\Documents\\nmap-7.70\\nmap.exe 190.121.13.170");   
+  //   ejecutarCMD("C:\\Users\\jorge\\Documents\\nmap-7.70\\nmap.exe 190.121.13.170");
+  // Herramienta Nmap añadida al proyecto
+     ejecutarCMD("nmap-7.70\\nmap.exe 190.121.13.170");
      ejecutarCMD("ping 190.121.13.170");
         
     }//GEN-LAST:event_bt_diagnosticoActionPerformed
